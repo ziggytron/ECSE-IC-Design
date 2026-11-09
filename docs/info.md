@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Switches input values to a 2-AND gate and an LED shows the output.
+2-bit full adder
 
 ## How to test
 
