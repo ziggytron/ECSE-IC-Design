@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-2-bit full adder
+It increases its output by one on the rising edge of its clock input.
 
 ## How to test
 
-Operate switches and observe LED output. 
+Operate clock and observe LED output. 
 
 ## External hardware
 
-Switches and LED
+clock and LED
